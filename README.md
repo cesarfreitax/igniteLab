@@ -5,4 +5,4 @@ Isso tudo, utilizando as ferramentas mais avancadas do mercado como: Typescript,
 ##
 
 ### Desktop:
-<img src="https://drive.google.com/file/d/1CGaYL0-WKFhkKlkOyfNopUm1Mt2_gB8b/preview" width="640" height="480" alt=""/>
+<img src="./src/assets/ignite_lab_desktop.png" width="640" height="480" alt=""/>
