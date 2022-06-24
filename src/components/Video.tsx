@@ -25,7 +25,7 @@ interface GetLessonBySlugResponse {
         title: string;
         videoId: string;
         description: string;
-        teacher : {
+        teacher: {
             bio: string;
             avatarURL: string;
             name: string;
@@ -38,7 +38,7 @@ interface VideoProps {
 }
 
 export function Video(props: VideoProps) {
-    const {data} = useQuery<GetLessonBySlugResponse>(GET_LESSON_BY_SLUG_QUERY, {
+    const { data } = useQuery<GetLessonBySlugResponse>(GET_LESSON_BY_SLUG_QUERY, {
         variables: {
             slug: props.lessonSlug,
         }
@@ -58,7 +58,7 @@ export function Video(props: VideoProps) {
             <div className="bg-black flex justify-center">
                 <div className="h-full w-full max-w-[1100px] max-h-[60vh] aspect-video">
                     <Player>
-                        <Youtube videoId={data.lesson.videoId}/>
+                        <Youtube videoId={data.lesson.videoId} />
                         <DefaultUi />
                     </Player>
                 </div>
