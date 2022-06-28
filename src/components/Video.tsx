@@ -72,7 +72,7 @@ export function Video(props: VideoProps) {
                         </a>
                     </div>
                 </div>
-                
+
                 <div className="flex  flex-col gap-8 mt-20 lg:grid lg:grid-cols-2">
                     <a href="" className="bg-gray-700 rounded overflow-hidden flex flex-col justify-center mx-auto items-center lg:flex-row lg:items-stretch gap-6 hover: bg-gray-600 transition-colors lg:h-[140px]">
                         <div className="bg-green-700 w-full justify-center h-full p-6 flex items-center lg:w-20 lg:p-0">
