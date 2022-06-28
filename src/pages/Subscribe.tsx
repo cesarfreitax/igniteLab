@@ -37,7 +37,7 @@ export function Subscribe() {
                         Construa uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React</strong>
                     </h1>
 
-                    <div className="p-8 bg-gray-700 border border-gray-500 rounded">
+                    <div className="p-8 bg-gray-700 border border-gray-500 rounded max-w-[350px] mx-auto lg:max-w-[600px]">
                         <strong className="text-2xl mb-6 block">
                             Increva-se gratuitamente!
                         </strong>
