@@ -29,11 +29,11 @@ export function Subscribe() {
 
     return (
         <div className="min-h-screen bg-blur bg-cover bg-no-repeat flex flex-col items-center">
-            <div className="w-full max-w-[1100px] flex items-center justify-center mt-20 mx-auto">
+            <div className="w-full max-w-[1100px] flex items-center justify-center mt-8 mx-auto">
                 <div className="max-w-[640px]">
                     <Logo />
 
-                    <h1 className="mt-8 text-[2rem] leading-tigth text-center">
+                    <h1 className="mt-8 text-[2rem] leading-tigth text-center mb-8">
                         Construa uma <strong className="text-blue-500">aplicação completa</strong>, do zero, com <strong className="text-blue-500">React</strong>
                     </h1>
 
