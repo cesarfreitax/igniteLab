@@ -17,7 +17,7 @@ export function Event(){
         <div className="flex flex-col min-h-screen">
             <Header />
             <main className="flex flex-1 lg:flex-row flex-col">
-                <button className="lg:hidden border border-green-400 h-12 w-12 self-end mt-2 mb-2 mr-2" onClick={() => setMenu(!menu)}>
+                <button className="lg:hidden border border-green-400 h-12 w-12 self-end mt-2 mb-2 mr-2 hover:bg-green-500" onClick={() => setMenu(!menu)}>
                     <div className="border-green-400 border m-2"></div>
                     <div className="border-green-400 border m-2"></div>
                     <div className="border-green-400 border m-2"></div>
