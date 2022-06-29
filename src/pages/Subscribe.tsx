@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 import imgUrl from '../../src/assets/code-mockup.png';
+import Footer from "../components/Footer";
 
 
 export function Subscribe() {
@@ -76,6 +77,7 @@ export function Subscribe() {
             </div>
 
             <img src={imgUrl} className="mt-10" alt="" />
+            <Footer />
         </div>
     )
 }
