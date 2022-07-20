@@ -10,7 +10,7 @@ function Footer() {
                 </div>
 
                 <p className='text-sm text-gray-300'>
-                    Rocketseat - Todos os direitos reservados
+                    Criado por César Freitas - Todos os direitos reservados
                 </p>
             </div>
 
