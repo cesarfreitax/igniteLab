@@ -50,4 +50,22 @@ ____
   ```
 ____
 
+### 💻 Desktop
+
+![desktop_subscribe](https://user-images.githubusercontent.com/96268732/180077346-7fc0c297-e0ef-4141-b8cd-5bfa49c636e7.png)
+![desktop_event](https://user-images.githubusercontent.com/96268732/180077349-10b25b86-ea07-4ec3-886d-eec5df4347d9.png)
+
+____
+
+### 📱 Mobile
+
+![mobile_subscribe](https://user-images.githubusercontent.com/96268732/180077351-fa3a8554-eeb3-4862-a3f8-b8510466681f.png)
+![mobile_event](https://user-images.githubusercontent.com/96268732/180077352-5743225f-e9fb-4ea5-a82d-fcf5a5b56bf4.png)
+
+____
+
+*Usei a [Vercell](https://vercel.com/) para fazer o deploy, gostaria de ver o projeto? Só clicar [aqui](https://ignite-lab-cesarfreitax.vercel.app/)* 👌
+
+
+
 
