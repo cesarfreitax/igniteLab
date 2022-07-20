@@ -64,7 +64,7 @@ ____
 
 ____
 
-*Usei a [Vercell](https://vercel.com/) para fazer o deploy, gostaria de ver o projeto? Só clicar [aqui](https://ignite-lab-cesarfreitax.vercel.app/)* 👌
+*Usei a [Vercell](https://vercel.com/) para fazer o deploy. Gostaria de ver o projeto? Só clicar [aqui](https://ignite-lab-cesarfreitax.vercel.app/)* 👌
 
 
 
